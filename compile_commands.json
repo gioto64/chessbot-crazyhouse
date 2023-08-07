@@ -1,0 +1,87 @@
+[
+ {
+  "directory": "/home/ioan/Projects/chessbot",
+  "arguments": [
+   "g++",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-c",
+   "Bot.cpp",
+   "-o",
+   "Bot.o"
+  ],
+  "file": "Bot.cpp"
+ },
+ {
+  "directory": "/home/ioan/Projects/chessbot",
+  "arguments": [
+   "g++",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-c",
+   "Main.cpp",
+   "-o",
+   "Main.o"
+  ],
+  "file": "Main.cpp"
+ },
+ {
+  "directory": "/home/ioan/Projects/chessbot",
+  "arguments": [
+   "g++",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-c",
+   "Move.cpp",
+   "-o",
+   "Move.o"
+  ],
+  "file": "Move.cpp"
+ },
+ {
+  "directory": "/home/ioan/Projects/chessbot",
+  "arguments": [
+   "g++",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-c",
+   "gamestate.cpp",
+   "-o",
+   "gamestate.o"
+  ],
+  "file": "gamestate.cpp"
+ },
+ {
+  "directory": "/home/ioan/Projects/chessbot",
+  "arguments": [
+   "g++",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-c",
+   "pieces.cpp",
+   "-o",
+   "pieces.o"
+  ],
+  "file": "pieces.cpp"
+ }
+]
